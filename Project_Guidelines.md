@@ -73,6 +73,7 @@ The following checklist provides your team with an expanded listing of all eleme
   - [ ] All code should be written according to a Style Guide of your choice. List this Style Guide as a code comment in your first code chunk.
   - [ ] All code chunks should have a Code Header that contains who the primary author of the chunk is and who reviewed the chunk.
   - [ ] Follow and apply the principles and elements of Open Science (and PCIP).
+  - [ ] Include an Author Contribution section at the end of the report, before the Code Appendix.
 - [ ] Sign up for and complete a Work-in-Progress Presentation ([details](#work-in-progress-presentations) below)
 - [ ] Finalize your work and submit your report as a __PDF__ to the appropriate submission portal in Canvas by the deadline.
   - [ ] As a comment on your submission, include a link to your team's project repo.
@@ -179,6 +180,7 @@ If your team is completely struck, come talk to your instructor.
 - Make sure to use the `{lintr}` and lint your files to ensure that stylistic error get flagged and addressed.
   - The defaults of the `lint` function are for the Tidyverse style.
   - The provided `.lintr` file in this template is configured for BOAST/Tidyverse.
+- Draw on the [Contributor Role Taxonomy](https://credit.niso.org/) to report who did what.
 
 ## What to Include in Your Exploratory Data Analysis
 
