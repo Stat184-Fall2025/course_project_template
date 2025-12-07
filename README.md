@@ -1,6 +1,7 @@
-# Project Title
+# Chronic Disease Risk Factors and Outcomes in the United States
 
-Write a 1-2 sentences that quickly and clearly convey what your repo is for.
+This repository contains the code and report on study of how chronic disease risk factors (such as obesity, physical inactivity, and smoking) relate to chronic disease outcomes (such as diabetes and cardiovascular disease) across U.S. states. All analyses are done in R and reported in  Quarto.
+
 
 ## Overview
 
